@@ -4,7 +4,7 @@
 
 **AltEditor**, DataTables için geliştirilmiş, modal tabanlı hafif bir CRUD (Ekle, Oku, Güncelle, Sil) eklentisidir.
 
-Bu **v3.0 Geliştirilmiş** sürüm ([trup40](https://github.com/trup40) tarafından düzenlenmiştir), orijinal kütüphaneyi gelişmiş yaşam döngüsü kancaları (hooks), native Base64 dosya işleme, satır içi (inline) form düzenleri, daha temiz global kontrol bayrakları ve akıllı seçim kutusu (select box) yönetimi ile önemli ölçüde genişletmektedir.
+Bu **v3.0 Geliştirilmiş** sürüm ([Eagle](https://github.com/trup40) tarafından düzenlenmiştir), orijinal kütüphaneyi gelişmiş yaşam döngüsü kancaları (hooks), native Base64 dosya işleme, satır içi (inline) form düzenleri, daha temiz global kontrol bayrakları ve akıllı seçim kutusu (select box) yönetimi ile önemli ölçüde genişletmektedir.
 
 ## 🚀 Temel Özellikler
 
@@ -222,5 +222,5 @@ $(document).ready(function() {
 ## 📝 Emeği Geçenler & Lisans
 * Orijinal Yazar: Kingkode
 * Katkıda Bulunanlar: KasperOlesen, Luca Vercelli, Zack Hable
-* Geliştirilmiş Sürüm: trup40
+* Geliştirilmiş Sürüm: Eagle (trup40)
 * Lisans: MIT

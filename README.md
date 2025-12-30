@@ -4,7 +4,7 @@
 
 **AltEditor** is a lightweight, modal-based CRUD (Create, Read, Update, Delete) extension for DataTables.
 
-This **v3.0 Enhanced** version (modified by [trup40](https://github.com/trup40)) significantly extends the original library with advanced lifecycle hooks, native Base64 file handling, inline form layouts, cleaner global control flags, and smarter select box management.
+This **v3.0 Enhanced** version (modified by [Eagle](https://github.com/trup40)) significantly extends the original library with advanced lifecycle hooks, native Base64 file handling, inline form layouts, cleaner global control flags, and smarter select box management.
 
 ## 🚀 Key Features
 
@@ -222,5 +222,5 @@ $(document).ready(function() {
 ## 📝 Credits & License
 * Original Author: Kingkode
 * Contributors: KasperOlesen, Luca Vercelli, Zack Hable
-* Enhanced Version: trup40
+* Enhanced Version: Eagle (trup40)
 * License: MIT
