@@ -224,3 +224,19 @@ $(document).ready(function() {
 * Contributors: KasperOlesen, Luca Vercelli, Zack Hable
 * Enhanced Version: Eagle (trup40)
 * License: MIT
+
+
+## ☕ Projeye Destek Olun (Support the Developer)
+
+Geliştirdiğim bu freeware uygulamalar tamamen ücretsizdir. Projelerin devamlılığına ve kodlama sürecime destek olmak isterseniz, aşağıdaki kripto cüzdan adreslerini kullanabilirsiniz. Desteğiniz için teşekkürler! 🚀
+
+### 🪙 Crypto Donations
+
+| Coin | Ağ (Network) | Cüzdan Adresi |
+| :--- | :--- | :--- |
+| **USDT (Tether)** | **TRC20** (Tron) | `TWxJVQ3PBCd8ZJJVkX2joe8WRGcSCdh8Ws` |
+| **BTC (Bitcoin)** | Bitcoin (Bech32)| `bc1q7207qk3wk94a94xvxx43lxawsg69zpm0atvtd8` |
+| **ETH (Ethereum)** | ERC20 | `0x1f5A2e35752c6f01c753F334292Fc7635Caeef56` |
+| **BNB** | **BSC** (BEP20) | `0x93845c5Fb889C36E072B5683f1616C625C2deBe7` |
+
+> **⚠️ Önemli Not (Important):** Lütfen gönderim yaparken **Ağ (Network)** seçiminin yukarıdaki tablo ile birebir aynı olduğundan emin olun. (Please make sure the Network selection matches the table exactly when sending).
